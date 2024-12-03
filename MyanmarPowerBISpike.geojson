@@ -11,8 +11,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 6,
-        "name": "sum_2022_pilot_u_aung_chit_ko_aungthukha_combine"
+        "id": "M6",
+        "name": "sum_2022_pilot_u_aung_chit_ko_aungthukha_combine",
+        "Size": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -172,8 +173,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 7,
-        "name": "sum_2022_pilot_u_mg_win_htantapin_p1"
+        "id": "M7",
+        "name": "sum_2022_pilot_u_mg_win_htantapin_p1",
+        "Size": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -256,8 +258,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 8,
-        "name": "sum_2022_pilot_u_mg_win_htantapin_p2"
+        "id": "M8",
+        "name": "sum_2022_pilot_u_mg_win_htantapin_p2",
+        "Size": 3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -296,8 +299,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 9,
-        "name": "sum_2022_pilot_daw_kyi_win_aungthukha_combine"
+        "id": "M9",
+        "name": "sum_2022_pilot_daw_kyi_win_aungthukha_combine",
+        "Size": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -376,8 +380,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 10,
-        "name": "sum_2022_pilot_daw_saw_nan_aungthukha_combinr"
+        "id": "M10",
+        "name": "sum_2022_pilot_daw_saw_nan_aungthukha_combinr",
+        "Size": 5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -472,8 +477,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 11,
-        "name": "sum_2022_pilot_u_kyaw_naing_aungthukha_combine"
+        "id": "2516",
+        "name": "sum_2022_pilot_u_kyaw_naing_aungthukha_combine",
+        "Size": 6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -531,14 +537,14 @@
             ]
           ]
         ]
-      },
-      "id": 5
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": 12,
-        "name": "sum_2022_pilot_u_myat_soe_htantapin"
+        "id": "M12",
+        "name": "sum_2022_pilot_u_myat_soe_htantapin",
+        "Size": 7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -581,8 +587,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 13,
-        "name": "sum_2022_pilot_u_than_tun_htantapin_p1"
+        "id": "M13",
+        "name": "sum_2022_pilot_u_than_tun_htantapin_p1",
+        "Size": 8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -621,8 +628,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 14,
-        "name": "sum_2022_pilot_u_khin_mg_oo_htantapin"
+        "id": "M14",
+        "name": "sum_2022_pilot_u_khin_mg_oo_htantapin",
+        "Size": 9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -661,8 +669,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 15,
-        "name": "sum_2022_pilot_u_tin_moe_hlaing_htantapin_combine"
+        "id": "M15",
+        "name": "sum_2022_pilot_u_tin_moe_hlaing_htantapin_combine",
+        "Size": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -737,8 +746,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 16,
-        "name": "sum_2022_pilot_u_tin_han_htantapin"
+        "id": "M16",
+        "name": "sum_2022_pilot_u_tin_han_htantapin",
+        "Size": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -777,8 +787,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 17,
-        "name": "sum_2022_pilot_u_mya_shwe_htantapin_combine"
+        "id": "M17",
+        "name": "sum_2022_pilot_u_mya_shwe_htantapin_combine",
+        "Size": 3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -841,8 +852,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 18,
-        "name": "sum_2022_pilot_u_myint_thein_aungthukha_p2"
+        "id": "M18",
+        "name": "sum_2022_pilot_u_myint_thein_aungthukha_p2",
+        "Size": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -881,8 +893,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 19,
-        "name": "sum_2022_pilot_u_mg_naw_aungthukha_combine"
+        "id": "M19",
+        "name": "sum_2022_pilot_u_mg_naw_aungthukha_combine",
+        "Size": 5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -973,8 +986,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 20,
-        "name": "sum_2022_pilot_u_than_tun_htantapin_p2"
+        "id": "M20",
+        "name": "sum_2022_pilot_u_than_tun_htantapin_p2",
+        "Size": 6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1021,8 +1035,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 21,
-        "name": "sum_2022_pilot_u_tin_myint_htantapin_combine"
+        "id": "M21",
+        "name": "sum_2022_pilot_u_tin_myint_htantapin_combine",
+        "Size": 7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1109,8 +1124,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 22,
-        "name": "sum_2022_pilot_daw_tin_shwe_htantapin_combine"
+        "id": "M22",
+        "name": "sum_2022_pilot_daw_tin_shwe_htantapin_combine",
+        "Size": 8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1197,8 +1213,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 23,
-        "name": "sum_2022_pilot_u_myint_zaw_aungthukha_combine"
+        "id": "M23",
+        "name": "sum_2022_pilot_u_myint_zaw_aungthukha_combine",
+        "Size": 9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1273,8 +1290,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 24,
-        "name": "sum_2022_pilot_u_myint_thein_aungthukha_p1"
+        "id": "M24",
+        "name": "sum_2022_pilot_u_myint_thein_aungthukha_p1",
+        "Size": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1318,8 +1336,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 32,
-        "name": "sum_2022_pilot_u_chit_ko_ko_shwekyarpin"
+        "id": "M32",
+        "name": "sum_2022_pilot_u_chit_ko_ko_shwekyarpin",
+        "Size": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1366,8 +1385,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 33,
-        "name": "sum_2022_pilot_u_myint_zaw_htantapin_combine"
+        "id": "M33",
+        "name": "sum_2022_pilot_u_myint_zaw_htantapin_combine",
+        "Size": 3
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1438,8 +1458,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 34,
-        "name": "sum_2022_pilot_u_myint_kyaw_htantapin"
+        "id": "M34",
+        "name": "sum_2022_pilot_u_myint_kyaw_htantapin",
+        "Size": 4
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1478,8 +1499,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 35,
-        "name": "sum_2022_pilot_daw_san_wai_htantapin_combine"
+        "id": "M35",
+        "name": "sum_2022_pilot_daw_san_wai_htantapin_combine",
+        "Size": 5
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1582,8 +1604,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 36,
-        "name": "sum_2022_pilot_u_kyaw_myint_htantapin_combine"
+        "id": "M36",
+        "name": "sum_2022_pilot_u_kyaw_myint_htantapin_combine",
+        "Size": 6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1646,8 +1669,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 37,
-        "name": "sum_2022_pilot_u_thein_tan_naing_htantapin_combine"
+        "id": "M37",
+        "name": "sum_2022_pilot_u_thein_tan_naing_htantapin_combine",
+        "Size": 7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1743,8 +1767,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 48,
-        "name": "sum_2022_pilot_u_nay_win_htantapin_combine"
+        "id": "M48",
+        "name": "sum_2022_pilot_u_nay_win_htantapin_combine",
+        "Size": 8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1831,8 +1856,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 49,
-        "name": "sum_2022_pilot_u_myat_moe_htantapin_combine"
+        "id": "M49",
+        "name": "sum_2022_pilot_u_myat_moe_htantapin_combine",
+        "Size": 9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1899,8 +1925,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 50,
-        "name": "sum_2022_pilot_kyaw_hlaing_aungthukha"
+        "id": "M50",
+        "name": "sum_2022_pilot_kyaw_hlaing_aungthukha",
+        "Size": 1
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1966,58 +1993,6 @@
               [
                 96.14991008879275,
                 19.70590733745543
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 2517,
-        "name": "Aries"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                106.35701567812778,
-                9.86399303890678
-              ],
-              [
-                106.35848675620325,
-                9.864157908843866
-              ],
-              [
-                106.35837862219977,
-                9.86474984193539
-              ],
-              [
-                106.35791313710423,
-                9.864770432475328
-              ],
-              [
-                106.35789277799515,
-                9.865203526150113
-              ],
-              [
-                106.3573046268578,
-                9.865161538065628
-              ],
-              [
-                106.35734078594405,
-                9.864691874267598
-              ],
-              [
-                106.35692752889047,
-                9.864586039333043
-              ],
-              [
-                106.35701567812778,
-                9.86399303890678
               ]
             ]
           ]
